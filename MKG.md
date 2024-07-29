@@ -4,13 +4,19 @@ Este guia irá mostrar todas as funcionalidades do site para garantir que os usu
 
 ## Passo 1: Elementos da página inicial
 
-1. Crie uma pasta para o seu projeto e nomeie-a, por exemplo, `meu-site`.
-2. Dentro da pasta `meu-site`, crie os seguintes arquivos:
-   - `index.html`
-   - `styles.css`
+Na página inicial são apresentados 
+   - `Header`: 
+   - `Carrossel`:
+   - `Card`:
+   - `Área de Noticias do IBGE`:
+   - `Footer`:
 
-## Passo 2: Estrutura Básica do HTML
+![index](./img/sitemkg.png "Index do site")
+![index2](./img/sitemkg2.png "Index do site")
 
-Abra o arquivo `index.html` e adicione a estrutura básica do HTML:
+## Passo 2: Card Flip
 
-![Markdown é a linguagem de marcação mais simples do mundo!](./img/sitemkg.png "Logo do Markdown")
+<p float="left">
+  <img src="./img/card1.png" alt="Card 1" width="200" />
+  <img src="./img/card2.png" alt="Card 2" width="200" />
+</p>
