@@ -16,7 +16,24 @@ Na página inicial são apresentados
 
 ## Passo 2: Card Flip
 
-<p float="left">
-  <img src="./img/card1.png" alt="Card 1" width="200" />
-  <img src="./img/card2.png" alt="Card 2" width="200" />
-</p>
+![card](./img/card.png "Card do site")
+
+## Passo 3: 
+
+![addcard](./img/addcard.png "Adicionar Card")
+
+## Passo 4: 
+
+![carrossel](./img/carrossel.png "Carrossel")
+
+## Passo 5: 
+
+![reg_log](./img/reg_log.png "Login e Register")
+
+## Passo 6: 
+
+![noticias](./img/noticias.png "Card do site")
+
+## Passo 7: 
+
+![noticias2](./img/noticias2.png "Card do site")
