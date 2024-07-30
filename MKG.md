@@ -18,22 +18,22 @@ Na página inicial são apresentados
 
 ![card](./img/card.png "Card do site")
 
-## Passo 3: 
+## Passo 3: Area de criação de Cards
 
 ![addcard](./img/addcard.png "Adicionar Card")
 
-## Passo 4: 
+## Passo 4: Card 
 
 ![carrossel](./img/carrossel.png "Carrossel")
 
-## Passo 5: 
+## Passo 5: Registro e login de usuario 
 
 ![reg_log](./img/reg_log.png "Login e Register")
 
-## Passo 6: 
+## Passo 6: Area de pesquisa utilizando API
 
 ![noticias](./img/noticias.png "Card do site")
 
-## Passo 7: 
+## Passo 7: Resultado da pesquisa
 
 ![noticias2](./img/noticias2.png "Card do site")
