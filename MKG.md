@@ -5,7 +5,7 @@ Este guia irá mostrar todas as funcionalidades do site para garantir que os usu
 ## Passo 1: Elementos da página inicial
 
 Na página inicial são apresentados 
-   - `Header`: A parte superior da página contendo o logotipo e a área de loguin/register
+   - `Header`: A parte superior da página contendo o logotipo e a área de login/register
    - `Carrossel`: Uma apresentação de slides com imagens e informações destacadas.
    - `Card`: Blocos de informações resumidas sobre diferentes tópicos.
    - `Área de Noticias do IBGE`: Sessão dedicada às notícias fornecidas pelo IBGE.
@@ -24,7 +24,7 @@ Nesta seção, os usuários podem se registrar ou fazer login para acessar funci
 
 Demonstração do efeito de flip nos cards, onde o usuário pode visualizar mais informações ao passar o mouse.
 
-No site existem 5 cards flips que possuem um botão de "saiba mais" que ao ser clicado é levado a uma seção especifica do tema do card (Passo 6)
+No site existem 5 card flips que possuem um botão de "saiba mais" que ao ser clicado é levado a uma seção específica do tema do card (Passo 6)
 
 ![card](./img/card.png "Card do site")
 
